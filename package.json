@@ -63,7 +63,7 @@
     "chai": "^4.2.0",
     "codecov": "^3.5.0",
     "conditional-type-checks": "^1.0.5",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "mocha": "^7.1.2",
     "nyc": "^15.0.1",
     "prettier": "^2.0.5",
